@@ -38,3 +38,7 @@
 - iOS 16.0+
 - Xcode 15+
 - Swift 5.9+
+
+## License
+
+This project is licensed under the MIT License.
